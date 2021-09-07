@@ -1,0 +1,61 @@
+		/*p{
+
+ 			color: red;
+ 			font-weight: bolder;
+ 			font-size: 50px;
+ 		 }*/
+
+/*body{
+
+	background: green;
+}*/
+
+p,h4{
+	color: red;
+}
+
+div p{
+
+	color:blue;
+}
+
+h1{
+
+	color:red;
+}
+
+
+#first-para {
+
+	color:yellow;
+}
+
+
+
+.first-para{
+
+	color: purple;
+}
+
+
+
+div {
+
+
+	visibility: transparent;
+	color: white;
+	border: 4px solid red;
+	background: blue;
+	float: right;
+	width: 50%;
+	border-radius: 25px;
+	margin-right: 200px;
+	padding: 20px;
+}
+
+div ul{
+
+	list-style-type: none;
+	list-style-type: square;
+}
+
